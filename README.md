@@ -1,1 +1,1 @@
-My first page html : Recreate the structure of landing page using only HTML. 
+HTML PROJECT : Recreate the structure of landing page using only HTML. 
